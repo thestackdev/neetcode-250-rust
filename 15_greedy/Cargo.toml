@@ -1,0 +1,64 @@
+[package]
+name = "p15_greedy"
+version.workspace = true
+edition.workspace = true
+
+[lib]
+name = "p15_greedy"
+path = "src/lib.rs"
+
+[[example]]
+name = "p207_lemonade_change"
+path = "examples/p207_lemonade_change.rs"
+
+[[example]]
+name = "p208_maximum_subarray"
+path = "examples/p208_maximum_subarray.rs"
+
+[[example]]
+name = "p209_maximum_sum_circular_subarray"
+path = "examples/p209_maximum_sum_circular_subarray.rs"
+
+[[example]]
+name = "p210_longest_turbulent_subarray"
+path = "examples/p210_longest_turbulent_subarray.rs"
+
+[[example]]
+name = "p211_jump_game"
+path = "examples/p211_jump_game.rs"
+
+[[example]]
+name = "p212_jump_game_ii"
+path = "examples/p212_jump_game_ii.rs"
+
+[[example]]
+name = "p213_jump_game_vii"
+path = "examples/p213_jump_game_vii.rs"
+
+[[example]]
+name = "p214_gas_station"
+path = "examples/p214_gas_station.rs"
+
+[[example]]
+name = "p215_hand_of_straights"
+path = "examples/p215_hand_of_straights.rs"
+
+[[example]]
+name = "p216_dota2_senate"
+path = "examples/p216_dota2_senate.rs"
+
+[[example]]
+name = "p217_merge_triplets_to_form_target"
+path = "examples/p217_merge_triplets_to_form_target.rs"
+
+[[example]]
+name = "p218_partition_labels"
+path = "examples/p218_partition_labels.rs"
+
+[[example]]
+name = "p219_valid_parenthesis_string"
+path = "examples/p219_valid_parenthesis_string.rs"
+
+[[example]]
+name = "p220_candy"
+path = "examples/p220_candy.rs"

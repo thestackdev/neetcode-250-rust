@@ -1,0 +1,60 @@
+[package]
+name = "p02_two_pointers"
+version.workspace = true
+edition.workspace = true
+
+[lib]
+name = "p02_two_pointers"
+path = "src/lib.rs"
+
+[[example]]
+name = "p023_reverse_string"
+path = "examples/p023_reverse_string.rs"
+
+[[example]]
+name = "p024_is_palindrome"
+path = "examples/p024_is_palindrome.rs"
+
+[[example]]
+name = "p025_valid_palindrome_ii"
+path = "examples/p025_valid_palindrome_ii.rs"
+
+[[example]]
+name = "p026_merge_strings_alternately"
+path = "examples/p026_merge_strings_alternately.rs"
+
+[[example]]
+name = "p027_merge_sorted_array"
+path = "examples/p027_merge_sorted_array.rs"
+
+[[example]]
+name = "p028_remove_duplicates_from_sorted_array"
+path = "examples/p028_remove_duplicates_from_sorted_array.rs"
+
+[[example]]
+name = "p029_two_integer_sum_ii"
+path = "examples/p029_two_integer_sum_ii.rs"
+
+[[example]]
+name = "p030_three_integer_sum"
+path = "examples/p030_three_integer_sum.rs"
+
+[[example]]
+name = "p031_4sum"
+path = "examples/p031_4sum.rs"
+
+[[example]]
+name = "p032_rotate_array"
+path = "examples/p032_rotate_array.rs"
+
+[[example]]
+name = "p033_max_water_container"
+path = "examples/p033_max_water_container.rs"
+
+[[example]]
+name = "p034_boats_to_save_people"
+path = "examples/p034_boats_to_save_people.rs"
+
+[[example]]
+name = "p035_trapping_rain_water"
+path = "examples/p035_trapping_rain_water.rs"

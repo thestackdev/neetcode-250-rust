@@ -1,0 +1,92 @@
+[package]
+name = "p11_graphs"
+version.workspace = true
+edition.workspace = true
+
+[lib]
+name = "p11_graphs"
+path = "src/lib.rs"
+
+[[example]]
+name = "p143_island_perimeter"
+path = "examples/p143_island_perimeter.rs"
+
+[[example]]
+name = "p144_verifying_an_alien_dictionary"
+path = "examples/p144_verifying_an_alien_dictionary.rs"
+
+[[example]]
+name = "p145_find_the_town_judge"
+path = "examples/p145_find_the_town_judge.rs"
+
+[[example]]
+name = "p146_count_number_of_islands"
+path = "examples/p146_count_number_of_islands.rs"
+
+[[example]]
+name = "p147_max_area_of_island"
+path = "examples/p147_max_area_of_island.rs"
+
+[[example]]
+name = "p148_clone_graph"
+path = "examples/p148_clone_graph.rs"
+
+[[example]]
+name = "p149_islands_and_treasure"
+path = "examples/p149_islands_and_treasure.rs"
+
+[[example]]
+name = "p150_rotting_fruit"
+path = "examples/p150_rotting_fruit.rs"
+
+[[example]]
+name = "p151_pacific_atlantic_water_flow"
+path = "examples/p151_pacific_atlantic_water_flow.rs"
+
+[[example]]
+name = "p152_surrounded_regions"
+path = "examples/p152_surrounded_regions.rs"
+
+[[example]]
+name = "p153_open_the_lock"
+path = "examples/p153_open_the_lock.rs"
+
+[[example]]
+name = "p154_course_schedule"
+path = "examples/p154_course_schedule.rs"
+
+[[example]]
+name = "p155_course_schedule_ii"
+path = "examples/p155_course_schedule_ii.rs"
+
+[[example]]
+name = "p156_valid_tree"
+path = "examples/p156_valid_tree.rs"
+
+[[example]]
+name = "p157_course_schedule_iv"
+path = "examples/p157_course_schedule_iv.rs"
+
+[[example]]
+name = "p158_count_connected_components"
+path = "examples/p158_count_connected_components.rs"
+
+[[example]]
+name = "p159_redundant_connection"
+path = "examples/p159_redundant_connection.rs"
+
+[[example]]
+name = "p160_accounts_merge"
+path = "examples/p160_accounts_merge.rs"
+
+[[example]]
+name = "p161_evaluate_division"
+path = "examples/p161_evaluate_division.rs"
+
+[[example]]
+name = "p162_minimum_height_trees"
+path = "examples/p162_minimum_height_trees.rs"
+
+[[example]]
+name = "p163_word_ladder"
+path = "examples/p163_word_ladder.rs"

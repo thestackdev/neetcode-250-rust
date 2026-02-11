@@ -1,0 +1,100 @@
+[package]
+name = "p07_trees"
+version.workspace = true
+edition.workspace = true
+
+[lib]
+name = "p07_trees"
+path = "src/lib.rs"
+
+[[example]]
+name = "p088_binary_tree_inorder_traversal"
+path = "examples/p088_binary_tree_inorder_traversal.rs"
+
+[[example]]
+name = "p089_binary_tree_preorder_traversal"
+path = "examples/p089_binary_tree_preorder_traversal.rs"
+
+[[example]]
+name = "p090_binary_tree_postorder_traversal"
+path = "examples/p090_binary_tree_postorder_traversal.rs"
+
+[[example]]
+name = "p091_invert_a_binary_tree"
+path = "examples/p091_invert_a_binary_tree.rs"
+
+[[example]]
+name = "p092_depth_of_binary_tree"
+path = "examples/p092_depth_of_binary_tree.rs"
+
+[[example]]
+name = "p093_binary_tree_diameter"
+path = "examples/p093_binary_tree_diameter.rs"
+
+[[example]]
+name = "p094_balanced_binary_tree"
+path = "examples/p094_balanced_binary_tree.rs"
+
+[[example]]
+name = "p095_same_binary_tree"
+path = "examples/p095_same_binary_tree.rs"
+
+[[example]]
+name = "p096_subtree_of_a_binary_tree"
+path = "examples/p096_subtree_of_a_binary_tree.rs"
+
+[[example]]
+name = "p097_lowest_common_ancestor_in_binary_search_tree"
+path = "examples/p097_lowest_common_ancestor_in_binary_search_tree.rs"
+
+[[example]]
+name = "p098_insert_into_a_binary_search_tree"
+path = "examples/p098_insert_into_a_binary_search_tree.rs"
+
+[[example]]
+name = "p099_delete_node_in_a_bst"
+path = "examples/p099_delete_node_in_a_bst.rs"
+
+[[example]]
+name = "p100_level_order_traversal_of_binary_tree"
+path = "examples/p100_level_order_traversal_of_binary_tree.rs"
+
+[[example]]
+name = "p101_binary_tree_right_side_view"
+path = "examples/p101_binary_tree_right_side_view.rs"
+
+[[example]]
+name = "p102_construct_quad_tree"
+path = "examples/p102_construct_quad_tree.rs"
+
+[[example]]
+name = "p103_count_good_nodes_in_binary_tree"
+path = "examples/p103_count_good_nodes_in_binary_tree.rs"
+
+[[example]]
+name = "p104_valid_binary_search_tree"
+path = "examples/p104_valid_binary_search_tree.rs"
+
+[[example]]
+name = "p105_kth_smallest_integer_in_bst"
+path = "examples/p105_kth_smallest_integer_in_bst.rs"
+
+[[example]]
+name = "p106_binary_tree_from_preorder_and_inorder_traversal"
+path = "examples/p106_binary_tree_from_preorder_and_inorder_traversal.rs"
+
+[[example]]
+name = "p107_house_robber_iii"
+path = "examples/p107_house_robber_iii.rs"
+
+[[example]]
+name = "p108_delete_leaves_with_a_given_value"
+path = "examples/p108_delete_leaves_with_a_given_value.rs"
+
+[[example]]
+name = "p109_binary_tree_maximum_path_sum"
+path = "examples/p109_binary_tree_maximum_path_sum.rs"
+
+[[example]]
+name = "p110_serialize_and_deserialize_binary_tree"
+path = "examples/p110_serialize_and_deserialize_binary_tree.rs"

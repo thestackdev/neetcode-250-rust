@@ -1,0 +1,76 @@
+[package]
+name = "p13_dp_1d"
+version.workspace = true
+edition.workspace = true
+
+[lib]
+name = "p13_dp_1d"
+path = "src/lib.rs"
+
+[[example]]
+name = "p174_climbing_stairs"
+path = "examples/p174_climbing_stairs.rs"
+
+[[example]]
+name = "p175_min_cost_climbing_stairs"
+path = "examples/p175_min_cost_climbing_stairs.rs"
+
+[[example]]
+name = "p176_n_th_tribonacci_number"
+path = "examples/p176_n_th_tribonacci_number.rs"
+
+[[example]]
+name = "p177_house_robber"
+path = "examples/p177_house_robber.rs"
+
+[[example]]
+name = "p178_house_robber_ii"
+path = "examples/p178_house_robber_ii.rs"
+
+[[example]]
+name = "p179_longest_palindromic_substring"
+path = "examples/p179_longest_palindromic_substring.rs"
+
+[[example]]
+name = "p180_palindromic_substrings"
+path = "examples/p180_palindromic_substrings.rs"
+
+[[example]]
+name = "p181_decode_ways"
+path = "examples/p181_decode_ways.rs"
+
+[[example]]
+name = "p182_coin_change"
+path = "examples/p182_coin_change.rs"
+
+[[example]]
+name = "p183_maximum_product_subarray"
+path = "examples/p183_maximum_product_subarray.rs"
+
+[[example]]
+name = "p184_word_break"
+path = "examples/p184_word_break.rs"
+
+[[example]]
+name = "p185_longest_increasing_subsequence"
+path = "examples/p185_longest_increasing_subsequence.rs"
+
+[[example]]
+name = "p186_partition_equal_subset_sum"
+path = "examples/p186_partition_equal_subset_sum.rs"
+
+[[example]]
+name = "p187_combination_sum_iv"
+path = "examples/p187_combination_sum_iv.rs"
+
+[[example]]
+name = "p188_perfect_squares"
+path = "examples/p188_perfect_squares.rs"
+
+[[example]]
+name = "p189_integer_break"
+path = "examples/p189_integer_break.rs"
+
+[[example]]
+name = "p190_stone_game_iii"
+path = "examples/p190_stone_game_iii.rs"

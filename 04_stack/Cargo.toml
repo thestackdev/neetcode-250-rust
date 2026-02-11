@@ -1,0 +1,68 @@
+[package]
+name = "p04_stack"
+version.workspace = true
+edition.workspace = true
+
+[lib]
+name = "p04_stack"
+path = "src/lib.rs"
+
+[[example]]
+name = "p045_baseball_game"
+path = "examples/p045_baseball_game.rs"
+
+[[example]]
+name = "p046_validate_parentheses"
+path = "examples/p046_validate_parentheses.rs"
+
+[[example]]
+name = "p047_implement_stack_using_queues"
+path = "examples/p047_implement_stack_using_queues.rs"
+
+[[example]]
+name = "p048_implement_queue_using_stacks"
+path = "examples/p048_implement_queue_using_stacks.rs"
+
+[[example]]
+name = "p049_minimum_stack"
+path = "examples/p049_minimum_stack.rs"
+
+[[example]]
+name = "p050_evaluate_reverse_polish_notation"
+path = "examples/p050_evaluate_reverse_polish_notation.rs"
+
+[[example]]
+name = "p051_generate_parentheses"
+path = "examples/p051_generate_parentheses.rs"
+
+[[example]]
+name = "p052_asteroid_collision"
+path = "examples/p052_asteroid_collision.rs"
+
+[[example]]
+name = "p053_daily_temperatures"
+path = "examples/p053_daily_temperatures.rs"
+
+[[example]]
+name = "p054_online_stock_span"
+path = "examples/p054_online_stock_span.rs"
+
+[[example]]
+name = "p055_car_fleet"
+path = "examples/p055_car_fleet.rs"
+
+[[example]]
+name = "p056_simplify_path"
+path = "examples/p056_simplify_path.rs"
+
+[[example]]
+name = "p057_decode_string"
+path = "examples/p057_decode_string.rs"
+
+[[example]]
+name = "p058_maximum_frequency_stack"
+path = "examples/p058_maximum_frequency_stack.rs"
+
+[[example]]
+name = "p059_largest_rectangle_in_histogram"
+path = "examples/p059_largest_rectangle_in_histogram.rs"

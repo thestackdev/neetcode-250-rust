@@ -1,0 +1,72 @@
+[package]
+name = "p14_dp_2d"
+version.workspace = true
+edition.workspace = true
+
+[lib]
+name = "p14_dp_2d"
+path = "src/lib.rs"
+
+[[example]]
+name = "p191_count_paths"
+path = "examples/p191_count_paths.rs"
+
+[[example]]
+name = "p192_unique_paths_ii"
+path = "examples/p192_unique_paths_ii.rs"
+
+[[example]]
+name = "p193_minimum_path_sum"
+path = "examples/p193_minimum_path_sum.rs"
+
+[[example]]
+name = "p194_longest_common_subsequence"
+path = "examples/p194_longest_common_subsequence.rs"
+
+[[example]]
+name = "p195_last_stone_weight_ii"
+path = "examples/p195_last_stone_weight_ii.rs"
+
+[[example]]
+name = "p196_buy_and_sell_crypto_with_cooldown"
+path = "examples/p196_buy_and_sell_crypto_with_cooldown.rs"
+
+[[example]]
+name = "p197_coin_change_ii"
+path = "examples/p197_coin_change_ii.rs"
+
+[[example]]
+name = "p198_target_sum"
+path = "examples/p198_target_sum.rs"
+
+[[example]]
+name = "p199_interleaving_string"
+path = "examples/p199_interleaving_string.rs"
+
+[[example]]
+name = "p200_stone_game"
+path = "examples/p200_stone_game.rs"
+
+[[example]]
+name = "p201_stone_game_ii"
+path = "examples/p201_stone_game_ii.rs"
+
+[[example]]
+name = "p202_longest_increasing_path_in_matrix"
+path = "examples/p202_longest_increasing_path_in_matrix.rs"
+
+[[example]]
+name = "p203_count_subsequences"
+path = "examples/p203_count_subsequences.rs"
+
+[[example]]
+name = "p204_edit_distance"
+path = "examples/p204_edit_distance.rs"
+
+[[example]]
+name = "p205_burst_balloons"
+path = "examples/p205_burst_balloons.rs"
+
+[[example]]
+name = "p206_regular_expression_matching"
+path = "examples/p206_regular_expression_matching.rs"

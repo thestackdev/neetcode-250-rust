@@ -1,0 +1,96 @@
+[package]
+name = "p01_arrays_and_hashing"
+version.workspace = true
+edition.workspace = true
+
+[lib]
+name = "p01_arrays_and_hashing"
+path = "src/lib.rs"
+
+[[example]]
+name = "p001_concatenation_of_array"
+path = "examples/p001_concatenation_of_array.rs"
+
+[[example]]
+name = "p002_duplicate_integer"
+path = "examples/p002_duplicate_integer.rs"
+
+[[example]]
+name = "p003_is_anagram"
+path = "examples/p003_is_anagram.rs"
+
+[[example]]
+name = "p004_two_integer_sum"
+path = "examples/p004_two_integer_sum.rs"
+
+[[example]]
+name = "p005_longest_common_prefix"
+path = "examples/p005_longest_common_prefix.rs"
+
+[[example]]
+name = "p006_anagram_groups"
+path = "examples/p006_anagram_groups.rs"
+
+[[example]]
+name = "p007_remove_element"
+path = "examples/p007_remove_element.rs"
+
+[[example]]
+name = "p008_majority_element"
+path = "examples/p008_majority_element.rs"
+
+[[example]]
+name = "p009_design_hashset"
+path = "examples/p009_design_hashset.rs"
+
+[[example]]
+name = "p010_design_hashmap"
+path = "examples/p010_design_hashmap.rs"
+
+[[example]]
+name = "p011_sort_an_array"
+path = "examples/p011_sort_an_array.rs"
+
+[[example]]
+name = "p012_sort_colors"
+path = "examples/p012_sort_colors.rs"
+
+[[example]]
+name = "p013_top_k_elements_in_list"
+path = "examples/p013_top_k_elements_in_list.rs"
+
+[[example]]
+name = "p014_string_encode_and_decode"
+path = "examples/p014_string_encode_and_decode.rs"
+
+[[example]]
+name = "p015_range_sum_query_2d_immutable"
+path = "examples/p015_range_sum_query_2d_immutable.rs"
+
+[[example]]
+name = "p016_products_of_array_discluding_self"
+path = "examples/p016_products_of_array_discluding_self.rs"
+
+[[example]]
+name = "p017_valid_sudoku"
+path = "examples/p017_valid_sudoku.rs"
+
+[[example]]
+name = "p018_longest_consecutive_sequence"
+path = "examples/p018_longest_consecutive_sequence.rs"
+
+[[example]]
+name = "p019_best_time_to_buy_and_sell_stock_ii"
+path = "examples/p019_best_time_to_buy_and_sell_stock_ii.rs"
+
+[[example]]
+name = "p020_majority_element_ii"
+path = "examples/p020_majority_element_ii.rs"
+
+[[example]]
+name = "p021_subarray_sum_equals_k"
+path = "examples/p021_subarray_sum_equals_k.rs"
+
+[[example]]
+name = "p022_first_missing_positive"
+path = "examples/p022_first_missing_positive.rs"

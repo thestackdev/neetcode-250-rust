@@ -1,0 +1,48 @@
+[package]
+name = "p12_advanced_graphs"
+version.workspace = true
+edition.workspace = true
+
+[lib]
+name = "p12_advanced_graphs"
+path = "src/lib.rs"
+
+[[example]]
+name = "p164_path_with_minimum_effort"
+path = "examples/p164_path_with_minimum_effort.rs"
+
+[[example]]
+name = "p165_network_delay_time"
+path = "examples/p165_network_delay_time.rs"
+
+[[example]]
+name = "p166_reconstruct_flight_path"
+path = "examples/p166_reconstruct_flight_path.rs"
+
+[[example]]
+name = "p167_min_cost_to_connect_points"
+path = "examples/p167_min_cost_to_connect_points.rs"
+
+[[example]]
+name = "p168_swim_in_rising_water"
+path = "examples/p168_swim_in_rising_water.rs"
+
+[[example]]
+name = "p169_foreign_dictionary"
+path = "examples/p169_foreign_dictionary.rs"
+
+[[example]]
+name = "p170_cheapest_flight_path"
+path = "examples/p170_cheapest_flight_path.rs"
+
+[[example]]
+name = "p171_find_critical_and_pseudo_critical_edges_in_minimum_spanning_tree"
+path = "examples/p171_find_critical_and_pseudo_critical_edges_in_minimum_spanning_tree.rs"
+
+[[example]]
+name = "p172_build_a_matrix_with_conditions"
+path = "examples/p172_build_a_matrix_with_conditions.rs"
+
+[[example]]
+name = "p173_greatest_common_divisor_traversal"
+path = "examples/p173_greatest_common_divisor_traversal.rs"

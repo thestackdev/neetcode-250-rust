@@ -1,0 +1,64 @@
+[package]
+name = "p05_binary_search"
+version.workspace = true
+edition.workspace = true
+
+[lib]
+name = "p05_binary_search"
+path = "src/lib.rs"
+
+[[example]]
+name = "p060_binary_search"
+path = "examples/p060_binary_search.rs"
+
+[[example]]
+name = "p061_search_insert_position"
+path = "examples/p061_search_insert_position.rs"
+
+[[example]]
+name = "p062_guess_number_higher_or_lower"
+path = "examples/p062_guess_number_higher_or_lower.rs"
+
+[[example]]
+name = "p063_sqrtx"
+path = "examples/p063_sqrtx.rs"
+
+[[example]]
+name = "p064_search_2d_matrix"
+path = "examples/p064_search_2d_matrix.rs"
+
+[[example]]
+name = "p065_eating_bananas"
+path = "examples/p065_eating_bananas.rs"
+
+[[example]]
+name = "p066_capacity_to_ship_packages_within_d_days"
+path = "examples/p066_capacity_to_ship_packages_within_d_days.rs"
+
+[[example]]
+name = "p067_find_minimum_in_rotated_sorted_array"
+path = "examples/p067_find_minimum_in_rotated_sorted_array.rs"
+
+[[example]]
+name = "p068_find_target_in_rotated_sorted_array"
+path = "examples/p068_find_target_in_rotated_sorted_array.rs"
+
+[[example]]
+name = "p069_search_in_rotated_sorted_array_ii"
+path = "examples/p069_search_in_rotated_sorted_array_ii.rs"
+
+[[example]]
+name = "p070_time_based_key_value_store"
+path = "examples/p070_time_based_key_value_store.rs"
+
+[[example]]
+name = "p071_split_array_largest_sum"
+path = "examples/p071_split_array_largest_sum.rs"
+
+[[example]]
+name = "p072_median_of_two_sorted_arrays"
+path = "examples/p072_median_of_two_sorted_arrays.rs"
+
+[[example]]
+name = "p073_find_in_mountain_array"
+path = "examples/p073_find_in_mountain_array.rs"

@@ -1,0 +1,36 @@
+[package]
+name = "p16_intervals"
+version.workspace = true
+edition.workspace = true
+
+[lib]
+name = "p16_intervals"
+path = "src/lib.rs"
+
+[[example]]
+name = "p221_insert_new_interval"
+path = "examples/p221_insert_new_interval.rs"
+
+[[example]]
+name = "p222_merge_intervals"
+path = "examples/p222_merge_intervals.rs"
+
+[[example]]
+name = "p223_non_overlapping_intervals"
+path = "examples/p223_non_overlapping_intervals.rs"
+
+[[example]]
+name = "p224_meeting_schedule"
+path = "examples/p224_meeting_schedule.rs"
+
+[[example]]
+name = "p225_meeting_schedule_ii"
+path = "examples/p225_meeting_schedule_ii.rs"
+
+[[example]]
+name = "p226_meeting_rooms_iii"
+path = "examples/p226_meeting_rooms_iii.rs"
+
+[[example]]
+name = "p227_minimum_interval_including_query"
+path = "examples/p227_minimum_interval_including_query.rs"

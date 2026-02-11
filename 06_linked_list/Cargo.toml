@@ -1,0 +1,64 @@
+[package]
+name = "p06_linked_list"
+version.workspace = true
+edition.workspace = true
+
+[lib]
+name = "p06_linked_list"
+path = "src/lib.rs"
+
+[[example]]
+name = "p074_reverse_a_linked_list"
+path = "examples/p074_reverse_a_linked_list.rs"
+
+[[example]]
+name = "p075_merge_two_sorted_linked_lists"
+path = "examples/p075_merge_two_sorted_linked_lists.rs"
+
+[[example]]
+name = "p076_linked_list_cycle_detection"
+path = "examples/p076_linked_list_cycle_detection.rs"
+
+[[example]]
+name = "p077_reorder_linked_list"
+path = "examples/p077_reorder_linked_list.rs"
+
+[[example]]
+name = "p078_remove_node_from_end_of_linked_list"
+path = "examples/p078_remove_node_from_end_of_linked_list.rs"
+
+[[example]]
+name = "p079_copy_linked_list_with_random_pointer"
+path = "examples/p079_copy_linked_list_with_random_pointer.rs"
+
+[[example]]
+name = "p080_add_two_numbers"
+path = "examples/p080_add_two_numbers.rs"
+
+[[example]]
+name = "p081_find_duplicate_integer"
+path = "examples/p081_find_duplicate_integer.rs"
+
+[[example]]
+name = "p082_reverse_linked_list_ii"
+path = "examples/p082_reverse_linked_list_ii.rs"
+
+[[example]]
+name = "p083_design_circular_queue"
+path = "examples/p083_design_circular_queue.rs"
+
+[[example]]
+name = "p084_lru_cache"
+path = "examples/p084_lru_cache.rs"
+
+[[example]]
+name = "p085_lfu_cache"
+path = "examples/p085_lfu_cache.rs"
+
+[[example]]
+name = "p086_merge_k_sorted_linked_lists"
+path = "examples/p086_merge_k_sorted_linked_lists.rs"
+
+[[example]]
+name = "p087_reverse_nodes_in_k_group"
+path = "examples/p087_reverse_nodes_in_k_group.rs"

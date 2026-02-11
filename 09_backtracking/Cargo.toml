@@ -1,0 +1,72 @@
+[package]
+name = "p09_backtracking"
+version.workspace = true
+edition.workspace = true
+
+[lib]
+name = "p09_backtracking"
+path = "src/lib.rs"
+
+[[example]]
+name = "p123_sum_of_all_subset_xor_totals"
+path = "examples/p123_sum_of_all_subset_xor_totals.rs"
+
+[[example]]
+name = "p124_subsets"
+path = "examples/p124_subsets.rs"
+
+[[example]]
+name = "p125_combination_target_sum"
+path = "examples/p125_combination_target_sum.rs"
+
+[[example]]
+name = "p126_combination_target_sum_ii"
+path = "examples/p126_combination_target_sum_ii.rs"
+
+[[example]]
+name = "p127_combinations"
+path = "examples/p127_combinations.rs"
+
+[[example]]
+name = "p128_permutations"
+path = "examples/p128_permutations.rs"
+
+[[example]]
+name = "p129_subsets_ii"
+path = "examples/p129_subsets_ii.rs"
+
+[[example]]
+name = "p130_permutations_ii"
+path = "examples/p130_permutations_ii.rs"
+
+[[example]]
+name = "p131_search_for_word"
+path = "examples/p131_search_for_word.rs"
+
+[[example]]
+name = "p132_palindrome_partitioning"
+path = "examples/p132_palindrome_partitioning.rs"
+
+[[example]]
+name = "p133_combinations_of_a_phone_number"
+path = "examples/p133_combinations_of_a_phone_number.rs"
+
+[[example]]
+name = "p134_matchsticks_to_square"
+path = "examples/p134_matchsticks_to_square.rs"
+
+[[example]]
+name = "p135_partition_to_k_equal_sum_subsets"
+path = "examples/p135_partition_to_k_equal_sum_subsets.rs"
+
+[[example]]
+name = "p136_n_queens"
+path = "examples/p136_n_queens.rs"
+
+[[example]]
+name = "p137_n_queens_ii"
+path = "examples/p137_n_queens_ii.rs"
+
+[[example]]
+name = "p138_word_break_ii"
+path = "examples/p138_word_break_ii.rs"

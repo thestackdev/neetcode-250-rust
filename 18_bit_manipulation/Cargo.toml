@@ -1,0 +1,48 @@
+[package]
+name = "p18_bit_manipulation"
+version.workspace = true
+edition.workspace = true
+
+[lib]
+name = "p18_bit_manipulation"
+path = "src/lib.rs"
+
+[[example]]
+name = "p241_single_number"
+path = "examples/p241_single_number.rs"
+
+[[example]]
+name = "p242_number_of_one_bits"
+path = "examples/p242_number_of_one_bits.rs"
+
+[[example]]
+name = "p243_counting_bits"
+path = "examples/p243_counting_bits.rs"
+
+[[example]]
+name = "p244_add_binary"
+path = "examples/p244_add_binary.rs"
+
+[[example]]
+name = "p245_reverse_bits"
+path = "examples/p245_reverse_bits.rs"
+
+[[example]]
+name = "p246_missing_number"
+path = "examples/p246_missing_number.rs"
+
+[[example]]
+name = "p247_sum_of_two_integers"
+path = "examples/p247_sum_of_two_integers.rs"
+
+[[example]]
+name = "p248_reverse_integer"
+path = "examples/p248_reverse_integer.rs"
+
+[[example]]
+name = "p249_bitwise_and_of_numbers_range"
+path = "examples/p249_bitwise_and_of_numbers_range.rs"
+
+[[example]]
+name = "p250_minimum_array_end"
+path = "examples/p250_minimum_array_end.rs"

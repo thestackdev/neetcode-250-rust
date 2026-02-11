@@ -1,0 +1,56 @@
+[package]
+name = "p08_heap_priority_queue"
+version.workspace = true
+edition.workspace = true
+
+[lib]
+name = "p08_heap_priority_queue"
+path = "src/lib.rs"
+
+[[example]]
+name = "p111_kth_largest_integer_in_a_stream"
+path = "examples/p111_kth_largest_integer_in_a_stream.rs"
+
+[[example]]
+name = "p112_last_stone_weight"
+path = "examples/p112_last_stone_weight.rs"
+
+[[example]]
+name = "p113_k_closest_points_to_origin"
+path = "examples/p113_k_closest_points_to_origin.rs"
+
+[[example]]
+name = "p114_kth_largest_element_in_an_array"
+path = "examples/p114_kth_largest_element_in_an_array.rs"
+
+[[example]]
+name = "p115_task_scheduling"
+path = "examples/p115_task_scheduling.rs"
+
+[[example]]
+name = "p116_design_twitter_feed"
+path = "examples/p116_design_twitter_feed.rs"
+
+[[example]]
+name = "p117_single_threaded_cpu"
+path = "examples/p117_single_threaded_cpu.rs"
+
+[[example]]
+name = "p118_reorganize_string"
+path = "examples/p118_reorganize_string.rs"
+
+[[example]]
+name = "p119_longest_happy_string"
+path = "examples/p119_longest_happy_string.rs"
+
+[[example]]
+name = "p120_car_pooling"
+path = "examples/p120_car_pooling.rs"
+
+[[example]]
+name = "p121_find_median_in_a_data_stream"
+path = "examples/p121_find_median_in_a_data_stream.rs"
+
+[[example]]
+name = "p122_ipo"
+path = "examples/p122_ipo.rs"

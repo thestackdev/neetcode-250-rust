@@ -1,0 +1,26 @@
+[workspace]
+resolver = "2"
+members = [
+    "01_arrays_and_hashing",
+    "02_two_pointers",
+    "03_sliding_window",
+    "04_stack",
+    "05_binary_search",
+    "06_linked_list",
+    "07_trees",
+    "08_heap_priority_queue",
+    "09_backtracking",
+    "10_tries",
+    "11_graphs",
+    "12_advanced_graphs",
+    "13_dp_1d",
+    "14_dp_2d",
+    "15_greedy",
+    "16_intervals",
+    "17_math_geometry",
+    "18_bit_manipulation",
+]
+
+[workspace.package]
+version = "0.1.0"
+edition = "2021"

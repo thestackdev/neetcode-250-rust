@@ -1,0 +1,44 @@
+[package]
+name = "p03_sliding_window"
+version.workspace = true
+edition.workspace = true
+
+[lib]
+name = "p03_sliding_window"
+path = "src/lib.rs"
+
+[[example]]
+name = "p036_contains_duplicate_ii"
+path = "examples/p036_contains_duplicate_ii.rs"
+
+[[example]]
+name = "p037_buy_and_sell_crypto"
+path = "examples/p037_buy_and_sell_crypto.rs"
+
+[[example]]
+name = "p038_longest_substring_without_duplicates"
+path = "examples/p038_longest_substring_without_duplicates.rs"
+
+[[example]]
+name = "p039_longest_repeating_substring_with_replacement"
+path = "examples/p039_longest_repeating_substring_with_replacement.rs"
+
+[[example]]
+name = "p040_permutation_string"
+path = "examples/p040_permutation_string.rs"
+
+[[example]]
+name = "p041_minimum_size_subarray_sum"
+path = "examples/p041_minimum_size_subarray_sum.rs"
+
+[[example]]
+name = "p042_find_k_closest_elements"
+path = "examples/p042_find_k_closest_elements.rs"
+
+[[example]]
+name = "p043_minimum_window_with_characters"
+path = "examples/p043_minimum_window_with_characters.rs"
+
+[[example]]
+name = "p044_sliding_window_maximum"
+path = "examples/p044_sliding_window_maximum.rs"

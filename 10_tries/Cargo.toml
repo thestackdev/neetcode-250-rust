@@ -1,0 +1,24 @@
+[package]
+name = "p10_tries"
+version.workspace = true
+edition.workspace = true
+
+[lib]
+name = "p10_tries"
+path = "src/lib.rs"
+
+[[example]]
+name = "p139_implement_prefix_tree"
+path = "examples/p139_implement_prefix_tree.rs"
+
+[[example]]
+name = "p140_design_word_search_data_structure"
+path = "examples/p140_design_word_search_data_structure.rs"
+
+[[example]]
+name = "p141_extra_characters_in_a_string"
+path = "examples/p141_extra_characters_in_a_string.rs"
+
+[[example]]
+name = "p142_search_for_word_ii"
+path = "examples/p142_search_for_word_ii.rs"
